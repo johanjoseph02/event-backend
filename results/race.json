@@ -1,0 +1,23 @@
+{
+  "people": 2000,
+  "seats": 500,
+  "concurrency": 200,
+  "requests": 4000,
+  "seconds": 2.74,
+  "requests_per_second": 1461,
+  "latency_ms": {
+    "p50": 136,
+    "p95": 233.1,
+    "p99": 332.9,
+    "max": 733
+  },
+  "http_statuses": {
+    "200": 2000,
+    "201": 2000
+  },
+  "confirmed": 500,
+  "waitlisted": 1500,
+  "confirmed_count": 500,
+  "invariants_hold": true,
+  "node": "v25.9.0"
+}
