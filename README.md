@@ -96,3 +96,7 @@ This repository is a ground-up rewrite (2026). It keeps the core of the stack (E
 TypeScript, PostgreSQL, SES) and is designed around the ways community events usually go
 wrong: registrations arrive as a rush, people submit twice, some never turn up, and the
 venue's network is weakest when the queue at the door is longest.
+
+## Licence
+
+The code is released under the [MIT License](LICENSE).
